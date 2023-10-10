@@ -1,0 +1,9 @@
+.direnv/*
+.vscode/*
+build/*
+dist/*
+venv/*
+.vscode/*
+__pycache__/*
+.env
+*.swp
