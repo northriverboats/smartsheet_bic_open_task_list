@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['smartsheet_bic_open_task_list.py'],
-             pathex=['/home/fwarren/builds/smartsheet_bic_open_task_list'],
+             pathex=[],
              binaries=[],
              datas=[
                  ('.env','.'),
